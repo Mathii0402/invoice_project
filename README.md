@@ -11,3 +11,4 @@
     - pip install -r requirements.txt
     - cd invoice_project
     - python manage.py runserver
+    - open browser and use any of the above APIs
